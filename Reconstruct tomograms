@@ -1,0 +1,1 @@
+e2tomogram.py --alltiltseries --tltstep=2.0 --rawtlt=data/tutorial_tomo_mini/*.hdf --npk=20 --tltkeep=0.9 --outsize=1k --niter=2,1,1,1 --bytile --pkkeep=0.9 --compressbits=8 --clipz=64 --bxsz=32 --correctrot --filterto=0.45 --rmbeadthr=-1.0 --threads=5 --patchtrack=-1 
