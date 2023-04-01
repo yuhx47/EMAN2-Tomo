@@ -1,0 +1,1 @@
+e2proc3d.py spt_01/threed_08.hdf mask_ball.hdf --process math.linear:scale=0:shift=1 --process mask.soft:dz=-60:outer_radius=35:width=10
