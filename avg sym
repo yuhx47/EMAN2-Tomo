@@ -1,0 +1,2 @@
+e2proc3d.py sets/port.lst avg_port.hdf --average --averager mean.tomo --avg_byxf
+e2proc3d.py avg_port.hdf avg_port.hdf --sym c6
