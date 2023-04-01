@@ -1,0 +1,1 @@
+e2proc3d.py spt_00/mask.hdf mask_capsid-tail.hdf --addfile mask_ball.hdf --process threshold.clampminmax:minval=0:maxval=1
