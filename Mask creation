@@ -1,0 +1,1 @@
+e2proc3d.py avg_port.hdf mask_port_0.hdf --process filter.lowpass.gauss:cutoff_abs=.1 --process mask.soft:outer_radius=-15:width=10 --process normalize.edgemean --process mask.auto3d.thresh:threshold1=4:threshold2=2:nshells=5:nshellsgauss=10:return_mask=True
