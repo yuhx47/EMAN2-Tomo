@@ -1,0 +1,1 @@
+e2spt_extract.py --boxsz_unbin=256 --newlabel=port --threads=20 --shrink=2 --tltkeep=1.0 --jsonali=sptcls_00/aliptcls3d_30_00.lst --compressbits=8 --postxf c1,0,0,-43
